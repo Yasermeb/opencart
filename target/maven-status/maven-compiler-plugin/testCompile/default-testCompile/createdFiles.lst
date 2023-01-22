@@ -1,0 +1,4 @@
+testBase\BaseClass.class
+pageObjects\AccountRegistrationPage.class
+pageObjects\BasePage.class
+pageObjects\HomePage.class
